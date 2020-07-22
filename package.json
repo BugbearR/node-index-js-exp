@@ -1,0 +1,8 @@
+{
+  "name": "index-js-exp",
+  "version": "0.0.1",
+  "description": "Test for import",
+  "main": "lib/index.js",
+  "author": "BugbearR",
+  "license": "CC0-1.0"
+}
